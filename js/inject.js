@@ -1,3 +1,6 @@
+/* SocialBar */
+(function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"},{"name":"async","value":"async"},{"name":"src","value":"//pl28098425.effectivegatecpm.com/e3/6e/29/e36e293d3fb8425dac82311605945904.js"}],"tag":"script","inner":""}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
+
 /* Popunder */
 (function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"},{"name":"async","value":"async"},{"name":"src","value":"//pl28098325.effectivegatecpm.com/ab/f2/cf/abf2cfa730055e750a9573aae21b6319.js"}],"tag":"script","inner":""}],{"target":"head"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
 
